@@ -1,0 +1,96 @@
+Course 1 : Abacus - 3 categories
+
+Abacus Junior (Level 1 to 4)
+Age: 4 – 5 years
+Introduction of Abacus
+Manipulating the beads
+Basic addition
+Subtraction and multiplication with Abacus and activities
+
+Abacus Basic (Level 1 to 6)
+Age: 6 – 10 years
+Basic calculation
+Addition
+Subtraction
+Multiplication and Division with Abacus & mental learning games and other activities
+
+Abacus Advanced (Level 7-10)
+Age: 10 – 12 years
+Basic Addition, Subtraction, Multiplication, Division
+LCM, HCF, GCD, Square Root, Cube Root etc
+
+Kit is Provided : Books, Bag, Tool & T-Shirt
+Each Level lasts usually 4 Months
+
+Course 2 : Vedic Maths (Level 1 - 4)
+Vedic Mathematics is a collection of Techniques/Sutras to solve mathematical arithmetics in easy and faster way.
+Age: 10 – 12 Years
+Kit is Provided : Books, Bag & T-Shirt
+Each Level lasts usually 4 Months
+
+Course 3 : Handwriting (English/Hindi)
+Handwriting improvement classes
+Course lasts usually 3 Months
+
+Course 4 : STEM (BlackMonkey)
+LEVEL_01
+SHUNYA
+Light up your mind with paper circuits
+Discover the magic of electricity through hands-on paper circuit projects. Create glowing artwork, interactive cards, and learn fundamental electronics concepts using conductive tape, LEDs, and creativity.
+Age Group
+4-7 Years
+Duration
+8 Weeks
+Category
+Paper Circuits
+
+
+
+LEVEL_02
+CHAKRA
+Command robots that build the future
+Enter the world of robotics by building and programming your own robots. Learn to make machines move, sense, and respond. From basic motors to complex behaviors, become a robot master.
+Age Group
+8-11 years
+Duration
+8 weeks
+Category
+Robotics
+
+
+LEVEL_03
+YANTRA
+Connect the world through smart devices
+Build smart connected devices that communicate with each other. Learn how everyday objects become intelligent through sensors, microcontrollers, and internet connectivity. Create your own IoT ecosystem.
+Age Group
+12-14 years
+Duration
+12 weeks
+Category
+Internet of Things
+
+
+
+LEVEL_04
+ANANTA
+Master advanced IoT and AI integration
+Take IoT to the next level with machine learning, edge computing, and advanced sensor fusion. Build sophisticated systems that can learn, predict, and make intelligent decisions autonomously.
+Age Group
+14-16 years
+Duration
+12 weeks
+Category
+Advanced IoT
+
+
+
+LEVEL_05
+GARUDA
+Soar to new heights with drone technology
+Design, build, and fly autonomous drones. Learn aerodynamics, flight controllers, GPS navigation, and aerial photography. From manual control to fully autonomous missions.
+Age Group
+14-18 years
+Duration
+8 weeks
+Category
+Drone Engineering
